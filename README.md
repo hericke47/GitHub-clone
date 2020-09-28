@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img alt="GoBarber API" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG40.png&f=1&nofb=1" height="144px" width="280px"/>
+    <img alt="GoBarber API" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG40.png&f=1&nofb=1" height="200px" width="280px"/>
     <br>
 </h1>
 
@@ -25,7 +25,7 @@
 
 ## :rocket: Sobre o Projeto
 
-A proposta foi desenvolver uma interface igual a dog Github
+A proposta foi desenvolver uma interface igual a do Github
 
 ## 👨‍💻️ Tecnogias utilizadas
 
