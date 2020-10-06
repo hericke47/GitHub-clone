@@ -7,6 +7,11 @@
     <br>
 </h1>
 
+
+## :rocket: Sobre o Projeto
+
+A proposta foi desenvolver uma interface igual a do Github
+
 ---
 
 ### Imagem do Projeto 
@@ -23,9 +28,6 @@
   </a>
 </div>
 
-## :rocket: Sobre o Projeto
-
-A proposta foi desenvolver uma interface igual a do Github
 
 ## 👨‍💻️ Tecnogias utilizadas
 
